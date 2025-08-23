@@ -1,4 +1,4 @@
-# Whole Genome and Transcriptome Sequence Analysis Pipeline
+# Whole Genome and Transcriptome Sequence Analysis of Endophytic Fungi Aspergillus welwitschiae Ocstreb1 (AwOcstreb1)
 
 This document outlines the steps performed for genome assembly, annotation, and downstream analyses of the fungal strain Aspergillus welwitschiae Ocstreb1 genome and transcriptome using various command-line tools. Web-based tools used for some downstream analyses are not included in this documentation.
 
