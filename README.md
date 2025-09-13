@@ -104,6 +104,18 @@ Running Diamond for functional annotation
   ./diamond blastp -d kog_reference -q ./othofinder_proteome/Aspergillus_welwitschiae_ocstreb1.faa --outfmt 6 qseqid sseqid --max-target-seqs 1 --very-sensitive | sort -u > kyva_best_hit.txt
   ./diamond blastp -d swiss_reference -q ./othofinder_proteome/Aspergillus_welwitschiae_ocstreb1.faa --outfmt 6 qseqid sseqid --max-target-seqs 1 --very-sensitive | sort -u > swissprot_best_hit.txt
 ````
+**EggNog-Mapper:**
+
+Extracting transcripts from genome file for eggnog annotation of predicted transcripts:
+````python
+ gffread fungap_out_Aspwel_AwOcstreb1.gff3 -g AwOcstreb1_scaffolds_minlen500.fasta -w Awocstreb1.genes.fa
+````
+Running eggnog-mapper for diamond:
+````python
+ emapper.py -m diamond --data_dir ~/Documents/eggnog_database_with_diamond/ --itype CDS -i high_expressed_genes.fasta -o eggnog_high --cpu 32
+````
+*Note: For orthologous proteins, eggnog-mapper was run in Protein mode*
+
 **MISA:** 
 
 For Discovering SSR with [MISA](https://webblast.ipk-gatersleben.de/misa/misa_sourcecode_25082020.zip), downloading misa tool
