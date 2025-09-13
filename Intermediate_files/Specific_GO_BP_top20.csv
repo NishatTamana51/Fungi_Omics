@@ -1,0 +1,21 @@
+GO.ID,Term,Annotated,Significant,Expected,classicFisher
+GO:0015833,peptide transport,470,457,428.96,1.10E-09
+GO:0006886,intracellular protein transport,446,438,407.06,2.00E-05
+GO:0044260,cellular macromolecule metabolic process,1750,1644,1597.21,0.00013
+GO:0032543,mitochondrial translation,95,94,86.71,0.00056
+GO:0002181,cytoplasmic translation,193,189,176.15,0.00126
+GO:0031503,protein-containing complex localization,123,122,112.26,0.00146
+GO:0051276,chromosome organization,539,511,491.94,0.00163
+GO:0017038,protein import,103,101,94.01,0.00187
+GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,79,79,72.1,0.00204
+GO:0006611,protein export from nucleus,106,104,96.75,0.00386
+GO:0032268,regulation of cellular protein metabolic process,300,286,273.81,0.00398
+GO:0032436,positive regulation of proteasomal ubiquitin-dependent protein catabolic process,59,59,53.85,0.00437
+GO:0010628,positive regulation of gene expression,279,266,254.64,0.00726
+GO:0071166,ribonucleoprotein complex localization,94,92,85.79,0.00874
+GO:0051781,positive regulation of cell division,71,70,64.8,0.00908
+GO:0065008,regulation of biological quality,599,552,546.7,0.00982
+GO:0045842,positive regulation of mitotic metaphase/anaphase transition,53,52,48.37,0.01221
+GO:2000112,regulation of cellular macromolecule biosynthetic process,646,613,589.6,0.01345
+GO:0030433,ubiquitin-dependent ERAD pathway,49,48,44.72,0.01935
+GO:0016310,phosphorylation,310,299,282.93,0.0197

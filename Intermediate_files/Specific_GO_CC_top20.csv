@@ -1,0 +1,21 @@
+GO.ID,Term,Annotated,Significant,Expected,classicFisher
+GO:0005737,cytoplasm,2919,2747,2701.76,0.00074
+GO:0032991,protein-containing complex,1731,1671,1602.17,0.00119
+GO:0030176,Integral component of endoplasmic reticulum membrane,84,84,77.75,0.00223
+GO:0005829,cytosol,618,593,572.01,0.00298
+GO:0005935,cellular bud neck,133,130,123.1,0.0079
+GO:0005622,intracellular anatomical structure,3627,3402,3357.07,0.01054
+GO:0005934,cellular bud tip,57,57,52.76,0.01177
+GO:0030479,actin cortical patch,54,54,49.98,0.0149
+GO:1902494,catalytic complex,667,642,617.36,0.01989
+GO:0030687,"preribosome, large subunit precursor",68,67,62.94,0.03256
+GO:0098796,membrane protein complex,258,250,238.8,0.03438
+GO:0044732,mitotic spindle pole body,50,50,46.28,0.03787
+GO:0022627,cytosolic small ribosomal subunit,41,41,37.95,0.04124
+GO:0099568,cytoplasmic region,186,181,172.16,0.04662
+GO:0005628,prospore membrane,60,59,55.53,0.05491
+GO:0010494,cytoplasmic stress granule,78,76,72.19,0.06217
+GO:0005634,nucleus,1637,1533,1515.17,0.07651
+GO:0005802,trans-Golgi network,32,32,29.62,0.0833
+GO:0140534,Endoplasmic reticulum protein-containing complex,70,69,64.79,0.08853
+GO:0005643,nuclear pore,36,36,33.32,0.08976

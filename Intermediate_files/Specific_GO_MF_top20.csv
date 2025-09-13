@@ -1,0 +1,21 @@
+GO.ID,Term,Annotated,Significant,Expected,classicFisher
+GO:0003735,structural constituent of ribosome,125,124,114.03,0.00011
+GO:0005515,protein binding,648,626,591.15,0.00016
+GO:0030674,protein-macromolecule adaptor activity,88,88,80.28,0.00402
+GO:0051082,unfolded protein binding,57,57,52,0.00509
+GO:0003729,mRNA binding,149,144,135.93,0.00949
+GO:0003723,RNA binding,420,403,383.15,0.00975
+GO:0043130,ubiquitin binding,45,45,41.05,0.0156
+GO:0003924,GTPase activity,66,65,60.21,0.01642
+GO:0043168,anion binding,415,388,378.59,0.02048
+GO:0016301,kinase activity,180,172,164.21,0.02134
+GO:0003677,DNA binding,334,305,304.7,0.02565
+GO:0005096,GTPase activator activity,35,35,31.93,0.03953
+GO:0032550,purine ribonucleoside binding,71,69,64.77,0.04387
+GO:0005525,GTP binding,69,67,62.95,0.05033
+GO:0003743,translation initiation factor activity,32,32,29.19,0.05221
+GO:0005198,structural molecule activity,206,204,187.93,0.05225
+GO:0004674,protein serine/threonine kinase activity,92,86,83.93,0.05551
+GO:0008134,transcription factor binding,57,55,52,0.05711
+GO:0061630,ubiquitin protein ligase activity,67,65,61.12,0.05765
+GO:0016773,"phosphotransferase activity, alcohol group as acceptor",153,146,139.58,0.09358
