@@ -150,3 +150,15 @@ Generating count data table
 ````python
  featureCounts -p -t exon -g gene_id -Q 10 -a ocstreb1.gff3 -o ocstreb1.fcount.txt ocstreb1.bam
 ````
+
+**RepeatModeler and RepeatMasker**
+
+TE identification and classification
+
+````python
+cat genomes/*.fa > combined.fa
+BuildDatabase -name combined_db combined.fa
+RepeatModeler -database combined_db -pa 32
+for f in genomes/*.fa; do base=$(basename "$f" .fa); RepeatMasker -pa 16 -lib library/combined_nr.fa -gff -dir repeatmasker_out -nolow $f; done
+````
+
